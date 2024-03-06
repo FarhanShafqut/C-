@@ -14,7 +14,7 @@ int main()
             cout<<"*";
         }
         else{
-            cout<<"1";
+            cout<<" ";
         }
       }
       
